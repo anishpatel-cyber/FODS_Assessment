@@ -1,4 +1,4 @@
-#Program that takes two integers as input and displays output.
+#Program that takes two integers as input and displays output..
 
 def operations(a, b):
     print("Sum:", a + b)
